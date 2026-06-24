@@ -3,3 +3,8 @@ anthropic>=0.28.0
 requests>=2.31.0
 tzdata
 Pillow>=10.0.0
+moviepy>=1.0.3
+gtts>=2.5.0
+imageio>=2.34.0
+imageio-ffmpeg>=0.4.9
+numpy>=1.24.0
